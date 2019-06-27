@@ -1,2 +1,2 @@
 # pythonbootcamp_odev5
-odev 5
+istiklal marşı, girilen kıta sayısındaki kıtayı yazdırma
